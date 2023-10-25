@@ -1,6 +1,6 @@
 <p align=”center”>
 
-<img width=”200" height=”200" src="https://github.com/aarongroot/aarongroot/blob/main/github-banner.png" alt="my banner">
+<img  src="github-banner.png" alt="my banner">
 
 </p>
 
